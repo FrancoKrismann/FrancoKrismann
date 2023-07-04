@@ -9,8 +9,20 @@ Soy Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y opo
 
 📫 Correo: franco.krismann0707@gmial.com 
 ## Habilidades
-.HTML
-Habilidades: HTML / CSS / Javascript / Typescript / React.js / Redux / Material UI / Node.js / Express.js / JWT / PostgreSQL / Sequelize / MongoDB / GIT
+* HTML
+* CSS
+* Javascript
+* Typescript
+* React.js
+* Redux
+* Material UI
+* Node.js
+* Express.js
+* JWT
+* PostgreSQL
+* Sequelize
+* MongoDB
+* GIT
 
 ## ¿Donde adquirí mis conocimientos? 🙌
 
@@ -19,8 +31,7 @@ Durante mi formación como Full Stack Web Developer en el Bootcamp de Henry, he 
 ## Cómo contactarme:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancoKrismann)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/franco-gabriel-krismann-//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancoKrismann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/franco-gabriel-krismann-//)  
 
 
 
