@@ -1,8 +1,8 @@
 ### Hola 👋, Mi nombre es Franco Krismann
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKrismann)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoKrismann&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoKrismann&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKrismann&langs_count=8&theme=tokyonight)
 
 ## ¿Quién soy? 🤔
 
